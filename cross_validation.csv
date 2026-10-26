@@ -1,0 +1,5 @@
+,CV accuracy (mean),CV accuracy (std),CV F1 macro (mean),CV F1 macro (std)
+Decision Tree,0.7399,0.022,0.7393,0.0224
+KNN (k=5),0.8827,0.0088,0.8822,0.0092
+SVM (linear),0.9043,0.0181,0.9037,0.0183
+Naive Bayes,0.9056,0.0134,0.9052,0.0136

@@ -1,0 +1,13 @@
+Representation,Model,Accuracy,F1 (macro)
+Raw counts,Decision Tree,0.7713,0.771
+Raw counts,KNN (k=5),0.8309,0.8317
+Raw counts,SVM (linear),0.8511,0.8506
+Raw counts,Naive Bayes,0.9106,0.9106
+TF-IDF (unigram),Decision Tree,0.7766,0.7764
+TF-IDF (unigram),KNN (k=5),0.8904,0.8908
+TF-IDF (unigram),SVM (linear),0.9128,0.9125
+TF-IDF (unigram),Naive Bayes,0.9202,0.9202
+TF-IDF (uni+bigram),Decision Tree,0.7745,0.7736
+TF-IDF (uni+bigram),KNN (k=5),0.8777,0.8782
+TF-IDF (uni+bigram),SVM (linear),0.9096,0.9093
+TF-IDF (uni+bigram),Naive Bayes,0.9149,0.9152

@@ -1,10 +1,12 @@
-Text Classification using Decision Tree, KNN, SVM, and Naive Bayes
+Text Classification using Decision Tree, KNN, SVM, and Naive Bayes.
 
 
 
-Course details: 21CSE377T:Information Retrieval CLA-2 Task 2
+Course details: 21CSE377T
+Information Retrieval CLA-2 Task 2
 
-Name: ARUN SIVAPRASATH.A Reg No: RA2411026050216
+Name: ARUN SIVAPRASATH.A
+Reg No: RA2411026050216
 
 
 
@@ -19,7 +21,6 @@ Dataset:
 The dataset used is from the 20 Newsgroups. 5 classes were taken: comp.graphics, rec.autos, sci.med, soc.religion.christian, and talk.politics.guns. There were 4700 documents post-processing. Out of which 3760 were used for training, and 940 for testing. Class distribution was almost equal with an imbalance ratio of 1.10.
 
 Pre-processing:
-
 
 
 Convert to lowercase, Tokenize, Remove stop words, and Porter Stemming.

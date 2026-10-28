@@ -7,6 +7,8 @@ Information Retrieval CLA-2 Task 2
 
 Name: ARUN SIVAPRASATH.A
 Reg No: RA2411026050216
+Name: Sanjith S
+Reg.No : RA2411026050214
 
 
 
